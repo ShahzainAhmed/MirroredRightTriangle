@@ -1,1 +1,1 @@
-# Mirrored Right Triangle
+# Mirrored Right Triangle in Java.
