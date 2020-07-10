@@ -1,1 +1,1 @@
-# Mirrored Righ
+# Mirrored Right
