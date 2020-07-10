@@ -1,1 +1,1 @@
-# Mirrored Right
+# Mirrored Right Triangle
